@@ -6,7 +6,6 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong fo
 
 - **Data Analysis & Visualization:**  
   - Excel  
-  - Tableau  
   - Power BI  
 - **Databases & Querying:**  
   - PostgreSQL  
@@ -14,15 +13,13 @@ Welcome to my GitHub profile! I'm a passionate **Data Analyst** with a strong fo
   - Python  
 - **Version Control:**  
   - Git & GitHub  
-- **Cloud Computing:**  
-  - AWS Cloud  
 
 ## 🚀 About Me
 
 I'm dedicated to uncovering insights from data and presenting them in clear, actionable formats. With a knack for problem solving, a love for research, and a drive for continuous improvement, I thrive in environments that challenge me to think critically and creatively.
 
 - 📚 I love reading, doing research, and solving puzzles.
-- 🌱 Currently upskilling in **AWS Cloud** to broaden my data engineering and cloud analytics capabilities.
+- 🌱 Currently upskilling in **AI/ML** to broaden my data handling capabilities.
 
 ## 📫 Contact Me
 
